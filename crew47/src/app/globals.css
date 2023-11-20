@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: #022b39;
+  color: #6b8e97;
+}
+
+.main {
+  color: #b8b8b8;
+  max-width: 1200px;
+  margin: 5rem auto;
+  /* border: 1px solid red; */
+  text-align: center;
+  padding: 1rem;
+}
+.main h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.headerText p {
+  max-width: 45rem;
+  line-height: 1.8;
+  text-align: center;
+  margin: 2rem auto 0rem auto;
+}
+
+.headerText span {
+  color: #a57733;
+}
+/* Team display */
+
+.teamDisplay {
+  margin-top: 5rem;
+  /* border: 1px solid red; */
+}
+.teamDisplay h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.teamContainer {
+  margin: 4rem auto 0;
+
+  /* border: 1px solid red; */
+  /* max-width: 600px; */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.5rem;
+}
+
+.singleTeamLink {
+  padding: 1rem;
+
+  background: #7a969c;
+  color: #001628;
+  font-weight: bold;
+  border-radius: 0.4rem;
+  font-size: 1.5rem;
+}
+.singleTeamLink:hover {
+  background: #5a818b;
+}
+
+.singleTeamPage {
+  color: #5a818b;
+  font-size: 3rem;
+  display: grid;
+  place-content: center;
+}
+
+/* member page */
+
+.memberContainer {
+  padding: 2rem 1rem;
+  margin: 6rem auto;
+  max-width: 1200px;
+  background: #022b39;
+  /* border: 4px solid #377777; */
+  border-radius: 0.4rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.textContainer h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #a57733;
+  margin-bottom: 1rem;
+}
+.textContainer p {
+  line-height: 1.8;
+  margin-bottom: 2rem;
+}
+
+.parentContainer {
+  max-width: 1200px;
+  margin: 2rem auto;
+  /* border: 1px solid red; */
+  border: 4px solid #377777;
+}
+/* spotify container */
+.spotifyContainer {
+  display: flex;
+  /* border:1px solid red; */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.spotify-container {
+  padding: 10px;
+  width: 350px;
+  height: 190px;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}

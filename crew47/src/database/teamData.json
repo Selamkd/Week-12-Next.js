@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rajea-bilal",
+    "name": "Rajea Bilal",
+    "bio": "An entrepreneur and self taught designed turned software developer. Obsessed with making things functional, smooth and visually pleasing. Hugely passionate about leveraging tech and design to solve real world problems.",
+    "interests": ["Web Development", "JavaScript", "React"],
+    "avatar": "https://res.cloudinary.com/rajea-bilal/image/upload/v1700224365/rajea_idx1t4.png",
+    "trackId": "078lbDGGTqBuTKU3bypXxQ",
+    "socialLinks": [
+      { "platform": "Github", "url": "https://twitter.com/johndoe" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/johndoe" }
+    ]
+  },
+  {
+    "id": "liz-robson",
+    "name": "Liz Robson",
+    "bio": "Creative UX designer with a strong background in user-centered design. Enjoys turning complex problems into simple, intuitive, and beautiful interfaces.",
+    "interests": ["User Experience", "UI Design", "Sketch", "Figma"],
+    "avatar": "https://res.cloudinary.com/rajea-bilal/image/upload/v1700223145/Liz_dojnco.png",
+    "trackId": "4PCOZeCLR4p8cvVBuGgfhm",
+    "socialLinks": [
+      { "platform": "Github", "url": "https://twitter.com/janesmith" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/janesmith" }
+    ]
+  },
+  {
+    "id": "james-cooke",
+    "name": "James Cooke",
+    "bio": "Passionate data scientist with a knack for uncovering insights from complex datasets. Loves exploring the intersection of data and technology.",
+    "interests": ["Data Science", "Machine Learning", "Python"],
+    "avatar": "https://res.cloudinary.com/rajea-bilal/image/upload/v1700222713/James_f4drx2.png",
+    "trackId": "7BawK4zlv9u1yOyO4lpZN7",
+    "socialLinks": [
+      { "platform": "Github", "url": "https://twitter.com/samjones" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/samjones" }
+    ]
+  },
+  {
+    "id": "selam-ararsa",
+    "name": "Selam Ararsa",
+    "bio": "Passionate data scientist with a knack for uncovering insights from complex datasets. Loves exploring the intersection of data and technology.",
+    "interests": ["Data Science", "Machine Learning", "Python"],
+    "avatar": "https://res.cloudinary.com/rajea-bilal/image/upload/v1700223158/Selam_xzafi0.png",
+    "trackId": "25Kyv5SeEenT0EETpP2hYn?si=40546e507a174e12",
+    "socialLinks": [
+      { "platform": "Github", "url": "https://twitter.com/samjones" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/samjones" }
+    ]
+  },
+  {
+    "id": "ioan-simionescu",
+    "name": "Ioan Simionescu",
+    "bio": "Passionate data scientist with a knack for uncovering insights from complex datasets. Loves exploring the intersection of data and technology.",
+    "interests": ["Data Science", "Machine Learning", "Python"],
+    "avatar": "https://res.cloudinary.com/rajea-bilal/image/upload/v1700222693/john_qv8f6t.png",
+    "trackId": "4OROzZUy6gOWN4UGQVaZMF",
+    "socialLinks": [
+      { "platform": "Github", "url": "https://twitter.com/samjones" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/samjones" }
+    ]
+  }
+]
